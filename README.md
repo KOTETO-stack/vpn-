@@ -1,2 +1,0 @@
-# vpn-
-Auto VPN configs
